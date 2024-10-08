@@ -1,0 +1,18 @@
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\entidad\bin\Debug\entidad.dll
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\entidad\bin\Debug\entidad.pdb
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\entidad\bin\Debug\entidad.xml
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\entidad\obj\Debug\entidad.Resources.resources
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\entidad\obj\Debug\entidad.vbproj.GenerateResource.Cache
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\entidad\obj\Debug\entidad.dll
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\entidad\obj\Debug\entidad.xml
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\entidad\obj\Debug\entidad.pdb
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\entidad\bin\Debug\entidad.dll
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\entidad\bin\Debug\entidad.pdb
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\entidad\bin\Debug\entidad.xml
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\entidad\obj\Debug\entidad.vbproj.AssemblyReference.cache
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\entidad\obj\Debug\entidad.Resources.resources
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\entidad\obj\Debug\entidad.vbproj.GenerateResource.cache
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\entidad\obj\Debug\entidad.vbproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\entidad\obj\Debug\entidad.dll
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\entidad\obj\Debug\entidad.xml
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\entidad\obj\Debug\entidad.pdb

@@ -1,0 +1,100 @@
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\bin\Debug\datos.dll
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\bin\Debug\entidad.dll
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\bin\Debug\datos.pdb
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\bin\Debug\datos.xml
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\bin\Debug\entidad.pdb
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\bin\Debug\entidad.xml
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\obj\Debug\presentacion.vbprojResolveAssemblyReference.cache
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\obj\Debug\presentacion.vbproj.GenerateResource.Cache
+C:\Users\Ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\bin\Debug\Inscripciones.exe
+C:\Users\Ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\bin\Debug\Inscripciones.pdb
+C:\Users\Ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\bin\Debug\Inscripciones.xml
+C:\Users\Ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\obj\Debug\Inscripciones.alumno.resources
+C:\Users\Ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\obj\Debug\Inscripciones.BaseDatos.resources
+C:\Users\Ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\obj\Debug\Inscripciones.iniciarSesion.resources
+C:\Users\Ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\obj\Debug\Inscripciones.mainMenu.resources
+C:\Users\Ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\obj\Debug\Inscripciones.Resources.resources
+C:\Users\Ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\obj\Debug\Inscripciones.representante.resources
+C:\Users\Ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\obj\Debug\Inscripciones.usuario.resources
+C:\Users\Ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\obj\Debug\Inscripciones.exe
+C:\Users\Ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\obj\Debug\Inscripciones.xml
+C:\Users\Ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\obj\Debug\Inscripciones.pdb
+C:\Users\Ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\obj\Debug\Inscripciones.inscripciones.resources
+C:\Users\Tito\Desktop\Copia de inscripciones\inscripciones - copia\presentacion\obj\Debug\Inscripciones.exe
+C:\Users\Tito\Desktop\Copia de inscripciones\inscripciones - copia\presentacion\obj\Debug\Inscripciones.xml
+C:\Users\Tito\Desktop\Copia de inscripciones\inscripciones - copia\presentacion\obj\Debug\Inscripciones.pdb
+C:\Users\Tito\Desktop\Copia de inscripciones\inscripciones - copia\presentacion\bin\Debug\Inscripciones.exe
+C:\Users\Tito\Desktop\Copia de inscripciones\inscripciones - copia\presentacion\bin\Debug\Inscripciones.pdb
+C:\Users\Tito\Desktop\Copia de inscripciones\inscripciones - copia\presentacion\bin\Debug\Inscripciones.xml
+C:\Users\Tito\Desktop\Copia de inscripciones\inscripciones - copia\presentacion\bin\Debug\datos.dll
+C:\Users\Tito\Desktop\Copia de inscripciones\inscripciones - copia\presentacion\bin\Debug\entidad.dll
+C:\Users\Tito\Desktop\Copia de inscripciones\inscripciones - copia\presentacion\bin\Debug\datos.pdb
+C:\Users\Tito\Desktop\Copia de inscripciones\inscripciones - copia\presentacion\bin\Debug\datos.xml
+C:\Users\Tito\Desktop\Copia de inscripciones\inscripciones - copia\presentacion\bin\Debug\entidad.pdb
+C:\Users\Tito\Desktop\Copia de inscripciones\inscripciones - copia\presentacion\bin\Debug\entidad.xml
+C:\Users\Tito\Desktop\Copia de inscripciones\inscripciones - copia\presentacion\obj\Debug\presentacion.vbprojResolveAssemblyReference.cache
+C:\Users\Tito\Desktop\Copia de inscripciones\inscripciones - copia\presentacion\obj\Debug\Inscripciones.alumno.resources
+C:\Users\Tito\Desktop\Copia de inscripciones\inscripciones - copia\presentacion\obj\Debug\Inscripciones.BaseDatos.resources
+C:\Users\Tito\Desktop\Copia de inscripciones\inscripciones - copia\presentacion\obj\Debug\Inscripciones.iniciarSesion.resources
+C:\Users\Tito\Desktop\Copia de inscripciones\inscripciones - copia\presentacion\obj\Debug\Inscripciones.inscripciones.resources
+C:\Users\Tito\Desktop\Copia de inscripciones\inscripciones - copia\presentacion\obj\Debug\Inscripciones.mainMenu.resources
+C:\Users\Tito\Desktop\Copia de inscripciones\inscripciones - copia\presentacion\obj\Debug\Inscripciones.Resources.resources
+C:\Users\Tito\Desktop\Copia de inscripciones\inscripciones - copia\presentacion\obj\Debug\Inscripciones.representante.resources
+C:\Users\Tito\Desktop\Copia de inscripciones\inscripciones - copia\presentacion\obj\Debug\Inscripciones.usuario.resources
+C:\Users\Tito\Desktop\Copia de inscripciones\inscripciones - copia\presentacion\obj\Debug\presentacion.vbproj.GenerateResource.Cache
+C:\Users\Tito\Desktop\Copia de inscripciones\inscripciones diseño final\presentacion\obj\Debug\Inscripciones.exe
+C:\Users\Tito\Desktop\Copia de inscripciones\inscripciones diseño final\presentacion\obj\Debug\Inscripciones.xml
+C:\Users\Tito\Desktop\Copia de inscripciones\inscripciones diseño final\presentacion\obj\Debug\Inscripciones.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\inscripciones diseño\presentacion\obj\Debug\Inscripciones.exe
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\inscripciones diseño\presentacion\obj\Debug\Inscripciones.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\inscripciones diseño\presentacion\obj\Debug\Inscripciones.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\inscripciones diseño\presentacion\bin\Debug\Inscripciones.exe
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\inscripciones diseño\presentacion\bin\Debug\Inscripciones.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\inscripciones diseño\presentacion\bin\Debug\Inscripciones.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\inscripciones diseño\presentacion\bin\Debug\datos.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\inscripciones diseño\presentacion\bin\Debug\entidad.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\inscripciones diseño\presentacion\bin\Debug\datos.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\inscripciones diseño\presentacion\bin\Debug\datos.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\inscripciones diseño\presentacion\bin\Debug\entidad.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\inscripciones diseño\presentacion\bin\Debug\entidad.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\inscripciones diseño\presentacion\obj\Debug\presentacion.vbprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\inscripciones diseño\presentacion\obj\Debug\Inscripciones.alumno.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\inscripciones diseño\presentacion\obj\Debug\Inscripciones.BaseDatos.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\inscripciones diseño\presentacion\obj\Debug\Inscripciones.iniciarSesion.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\inscripciones diseño\presentacion\obj\Debug\Inscripciones.inscripciones.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\inscripciones diseño\presentacion\obj\Debug\Inscripciones.mainMenu.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\inscripciones diseño\presentacion\obj\Debug\Inscripciones.Resources.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\inscripciones diseño\presentacion\obj\Debug\Inscripciones.representante.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\inscripciones diseño\presentacion\obj\Debug\Inscripciones.usuario.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\inscripciones diseño\presentacion\obj\Debug\presentacion.vbproj.GenerateResource.Cache
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\inscripciones diseño\presentacion\bin\Debug\itextsharp.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\inscripciones diseño\presentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\inscripciones diseño\presentacion\bin\Debug\itextsharp.xml
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\obj\Debug\presentacion.vbproj.AssemblyReference.cache
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\obj\Debug\Inscripciones.alumno.resources
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\obj\Debug\Inscripciones.BaseDatos.resources
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\obj\Debug\Inscripciones.iniciarSesion.resources
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\obj\Debug\Inscripciones.inscripciones.resources
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\obj\Debug\Inscripciones.mainMenu.resources
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\obj\Debug\Inscripciones.Resources.resources
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\obj\Debug\Inscripciones.representante.resources
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\obj\Debug\Inscripciones.usuario.resources
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\obj\Debug\presentacion.vbproj.GenerateResource.cache
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\obj\Debug\presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\obj\Debug\Inscripciones.exe
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\obj\Debug\Inscripciones.xml
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\obj\Debug\Inscripciones.pdb
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\bin\Debug\Inscripciones.exe.config
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\bin\Debug\Inscripciones.exe
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\bin\Debug\Inscripciones.pdb
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\bin\Debug\Inscripciones.xml
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\bin\Debug\datos.dll
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\bin\Debug\entidad.dll
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\bin\Debug\itextsharp.dll
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\bin\Debug\datos.pdb
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\bin\Debug\datos.xml
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\bin\Debug\entidad.pdb
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\bin\Debug\entidad.xml
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\bin\Debug\itextsharp.xml
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\inscripciones diseño\presentacion\obj\Debug\presenta.5750449A.Up2Date

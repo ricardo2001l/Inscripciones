@@ -1,0 +1,17 @@
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\bin\Debug\presentacion.exe
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\bin\Debug\presentacion.pdb
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\bin\Debug\presentacion.xml
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\bin\Debug\datos.dll
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\bin\Debug\entidad.dll
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\bin\Debug\datos.pdb
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\bin\Debug\datos.xml
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\bin\Debug\entidad.pdb
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\bin\Debug\entidad.xml
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\obj\x86\Debug\presentacion.vbprojResolveAssemblyReference.cache
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\obj\x86\Debug\presentacion.inscribir.resources
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\obj\x86\Debug\presentacion.iniciarSesion.resources
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\obj\x86\Debug\presentacion.Resources.resources
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\obj\x86\Debug\presentacion.vbproj.GenerateResource.Cache
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\obj\x86\Debug\presentacion.exe
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\obj\x86\Debug\presentacion.xml
+c:\users\ricardo\documents\visual studio 2010\Projects\inscripciones\presentacion\obj\x86\Debug\presentacion.pdb
