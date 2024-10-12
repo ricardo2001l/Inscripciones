@@ -1,2 +1,2 @@
-# inscripciones
-Inscriptions in a School desktop program.
+# Inscripciones
+Inscripciones en una Escuela. Programa de escritorio.
